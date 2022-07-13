@@ -3,7 +3,7 @@ import { Searchbar } from 'react-native-paper';
 // eslint-disable-next-line no-unused-vars
 import { StatusBar, StyleSheet, SafeAreaView, Text, View, FlatList } from 'react-native';
 import styled from 'styled-components/native';
-import { RestaurantInfoCard } from '../components/restaurant-info.components';
+import { RestaurantInfoCard } from '../components/restaurant-info- card.components';
 
 const SafeArea = styled(SafeAreaView)`
   flex: 1;
